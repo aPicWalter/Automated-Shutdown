@@ -1,13 +1,13 @@
 @echo off
 rem --------------------------------------------------------------------------------------------------
-rem Version 1.0; Deniz Fischer; 08.01.2024
+rem Version 1.0; D. Fischer; 08.01.2024
 rem 
 rem Programm stellt Zahlen in Zeichengrafik dar.
 rem 
 rem 1. Parameter ist eine Zahl
-rem 2. Parameter bestimmt 					0...wird nicht ausgegeben		Ausgabe.txt beschrieben
-rem											1...wird in Konsole ausgegeben	Ausgabe.txt beschrieben
-rem                                         2...wird in Konsole ausgegeben 	Ausgabe.txt geloescht
+rem 2. Parameter bestimmt 					0...wird nicht ausgegeben	Ausgabe.txt beschrieben
+rem								1...wird in Konsole ausgegeben	Ausgabe.txt beschrieben
+rem                                         			2...wird in Konsole ausgegeben 	Ausgabe.txt geloescht
 rem 
 rem
 rem Beispiel:
